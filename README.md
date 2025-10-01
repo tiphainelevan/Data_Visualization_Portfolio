@@ -77,7 +77,7 @@ Welcome! This portfolio brings together three end-to-end data projects that high
 
 ---
 
-## 📈 Visuals & Deliverables — Tally
+## 📈 Visuals & Deliverables
 
 * **Vestiaire Collective:** **10** visuals
 * **AdventureWorks (Power BI):** **~28** visuals
