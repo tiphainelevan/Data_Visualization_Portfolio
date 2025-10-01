@@ -85,9 +85,6 @@ dashboards/
   vestiaire_collectif_power_bi.pdf
 docs/
   Vestiaire-Collective-Presentation.pdf
-src/
-  modeling/
-  transforms/
 README.md
 ```
 
