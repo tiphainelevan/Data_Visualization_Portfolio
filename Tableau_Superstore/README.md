@@ -20,11 +20,11 @@ To make the repo self-explanatory, files are organized and renamed as follows:
 ```
 .
 ├─ data/
-│  └─ Additional_exercise.xlsx              # (keeps original name as requested)
+│  └─ Additional_exercise.xlsx              
 ├─ tableau/
-│  └─ Superstore-Analysis-Workbook.twb      # former: "session 11 -tableau 2.twb"
+│  └─ Superstore-Analysis-Workbook.twb      
 ├─ docs/
-│  └─ Superstore-Visualizations.pdf         # former: "session 11 -tableau 2_removed.pdf"
+│  └─ Superstore-Visualizations.pdf        
 └─ README.md
 ```
 
