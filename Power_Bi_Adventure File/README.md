@@ -1,4 +1,4 @@
-# AdventureWorks Power BI — Portfolio
+# AdventureWorks Power BI
 
 > Reproducible Power BI projects that connect to **AdventureWorks (Excel)**, clean and aggregate data in **Power Query**, and deliver **multi-page dashboards** with KPIs, trends, category mix, geo distribution, and interactive filtering. Built by following the in-class *AdventureWorks* exercises.
 
